@@ -1,4 +1,5 @@
 //Ari Whuandaniel Manurung (12S16015)
+// new update from 2024
 
 
 //kali ini kita diminta untuk membuat program untuk menghitung maksimum dari setiap matrix
